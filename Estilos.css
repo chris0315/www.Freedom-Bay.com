@@ -33,6 +33,7 @@ section form input {
 section form label {
     display: block;
     margin: 20px;
+    margin-top: 40px;
 }
 
 section h1 {
